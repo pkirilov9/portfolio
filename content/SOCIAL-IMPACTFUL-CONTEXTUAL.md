@@ -1,0 +1,21 @@
+In recent decades, a belief has taken root that architecture is incapable of driving social change, that it merely reflects existing social relationships rather than shaping them. Yet, architecture draws its life from these very relationships and cannot exist in isolation. For its production, architecture requires the material of social relations, meaning that it should be actively engaged with the dynamics of its context. To limit architecture to a self-referential, tradition-bound practice risks stripping it of its potential to respond to the pressing social, political, and economic realities of the present. Like many others, I have done speculative projects with a clear social inclination. Motivated by youthful naivete, I developed the project [[Manufactured Regeneration]] which possesses the catalytic potential to enliven rundown areas.  
+
+![[12.SiteResponseReduced.jpg#center|400]]
+<p align=center> Analysis of site conditions for 'Manufactured Regeneration'. </p>
+
+Although I truly enjoyed developing such projects, I could not help but feel that they were detached from their environments, and they simply adhered to the academic standard for social engagement. There was a lack of action, actual involvement, communication, and feedback. What became evident was that rather than relying on nostalgia for the "good old times" or idealised visions of utopian futures, architecture must start from the middle—what some may call the "bad current things." This approach requires an engagement with the present, acknowledging the messy and often uncomfortable realities of social relations as they currently exist. Such was the case when we started working on the [[Re-Boeritsa]] project, throughout which there were countless administrative, practical, financial, and personal hurdles. 
+
+![[boerica10.jpg#center|400]]
+<p align=center> First steps in demolition - part of 'Re-Boeritsa'. </p>
+
+To think in terms of creation, architects must adopt a mindset of working "with" and "alongside" the material and social conditions of the present. It is not about imposing a preconceived design but responding to the complexity of the site, the context, and the relationships embedded within it. That was our approach in the group project called [[Psyri Unscripted]]. This required a sensitivity to the continuous variation that emerges from the contingency of events across social, political, economic, and ecological fields. In this way, architecture becomes a dynamic, evolving process that reflects the multiplicity of forces shaping the world rather than a static object. Following this principle, we explored the possibility of disrupting the predetermined narratives of "trendy" spots within one of Athens' most gentrified neighbourhoods. 
+
+![[Exo_IdentityCollage.jpg#center|400]]
+<p align=center> Collage depicting the multitude of layers at play in 'Psyri Unscripted' . </p>
+
+To create social, impactful, and contextual architecture sounds like the dream of the benevolent university students, myself included. In each project I have done, I've always strived to implement those core principles. However, these projects remained just that - projects ... never leaving the drawing table. So, for my diploma project - [[Renderillas & Oraxotans +]] - I decided to see what it takes to apply these principles in real life. Throughout this process, I gained an understanding of what it means to do actual socially oriented work, how hard it can be, and how my skill set was lacking in crucial departments, which, up until now, I did not know were a necessary part to carry out such a project. It required an extreme amount of vulnerability and exposure, not common for the architect who works behind his desk. It required excellent communication skills, charisma, and the ability to translate complex and layered argumentation into a simple, common language. 
+
+![[DJI_20240406154522_0342_D.jpg#center|400]]
+<p align=center> Courtyard "gridding" - part of 'Renderillas and Oraxotans'. </p>
+
+Although I struggled with many of those new requirements, I truly enjoyed the process of putting myself in a position where I grew from foreign experiences. Now, once I've had a taste of what that is like, I can't wait to put myself out there again and develop even further. 
