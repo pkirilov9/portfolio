@@ -3,7 +3,7 @@
 
 Inspired by my tutor Ana, who always kindly reminded me that there is a point where I should “kill your darlings”, I deleted all documents, files and materials associated with the project ... an exercise in letting go.
 
-(+add giff scratched) =
+(+add giff scratched) 
 
 ![[IMG_9632.jpeg]]
 <p align=center> Before. </p>
