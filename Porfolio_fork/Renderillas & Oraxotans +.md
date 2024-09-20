@@ -9,8 +9,7 @@ Basically a combination of all the notions that have been interesting to me in t
 
 ![[P5_Final_1.jpg]]![[P5_Final3.jpg]]![[P5_Final4.jpg]]![[P5_Final5.jpg]]![[P5_Final6.jpg]]![[P5_Final7.jpg]]![[P5_Final8.jpg]]
 
-![[Event_ZB5_Compressed.mp4]]
-
+![[malko_video-2.mp4]]
 
 ![[P5_Final9 1.jpg]]![[P5_Final10.jpg]]![[P5_Final11.jpg]]![[P5_Final12.jpg]]![[P5_Final13.jpg]]![[P5_Final14.jpg]]![[P5_Final16.jpg]]![[P5_Final17.jpg]]![[Evolution_giff.mp4]]![[P5_Final18.jpg]]![[P5_Final19.jpg]]![[Transcript_giff.mp4]]![[FinalVideo.mp4]]
 
