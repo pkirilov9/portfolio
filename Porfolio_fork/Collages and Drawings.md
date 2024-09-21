@@ -36,4 +36,7 @@ Over the years, my proficiency in image-making has grown through countless hours
 ![[TatPosibilities 1.jpg]]
 <p align=center> *Tattoo ideas.* </p>
 
-![[[ROJ]_Booklet_InfoCetnter_220124_PK copy 10.jpg]]<p align=center> *Visualisation for an Info Point in 'Geopark Ralsko'.* </p>
+
+![[[ROJ]InfoCenter_FacadeVisual_220120PK copy.jpg]]
+
+<p align=center> *Visualisation for an Info Point in 'Geopark Ralsko'.* </p>
