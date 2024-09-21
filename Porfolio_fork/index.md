@@ -19,7 +19,7 @@ Throughout this field of exploration, I aim to position myself as a professional
 [[MAKING]]: 
 I approach architecture as a practice of doing, an active process of tracing the flow of materials and the connections between parts, where form emerges through production rather than imposition. I engage with architecture from the middle (not to be confused with the centre), positioning myself in the midst of things, and embracing the messy, physical, and hands-on nature of the craft, as the interactions between forms often become more important than the forms themselves. 
 
-![[201688fd819a4fbb9b67fabef9908048 1.mov#center|vid-30]][[PERFORMATIVITY]]:
+![[201688fd819a4fbb9b67fabef9908048 1.mov]][[PERFORMATIVITY]]:
 Performativity in architecture moves beyond static representations to encompass iterative, repeatable processes that make the intangible tangible. It is about understanding architecture not merely as an object, but as a practice of enacting, doing, and engaging with the forces that shape space. This approach reveals architecture’s capacity to transform and catalyse experiences through dynamic relationships, rather than fixed outcomes.
 
 ![[P5_Final_2.jpg]]
