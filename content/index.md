@@ -1,4 +1,4 @@
-<p align=center>*Welcome to my explorative repository!*</p>
+<p align=center>*Welcome to my explorative repository BANAN!*</p>
 <p align=center text-align: justify>*This is not exactly a portfolio... it is a field of exploration and experimentation that tracks my approach to architecture as an evolving process, where the orchestration of form gives way to the catalysation of potentials emergent from the engagement with the complex networks and interrelations that shape the architectural profession.* </p> 
 
 I invite you to begin this journey with this visual allegory of my self-perception as a practitioner: 
