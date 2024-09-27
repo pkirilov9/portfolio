@@ -21,7 +21,7 @@ I approach architecture as a practice of doing, an active process of tracing the
 
 ![[201688fd819a4fbb9b67fabef9908048 1.mov]]
 
-[[PERFORMATIVITY]]
+#### [[PERFORMATIVITY]]
 Performativity in architecture moves beyond static representations to encompass iterative, repeatable processes that make the intangible tangible. It is about understanding architecture not merely as an object, but as a practice of enacting, doing, and engaging with the forces that shape space. This approach reveals architecture’s capacity to transform and catalyse experiences through dynamic relationships, rather than fixed outcomes.
 
 ![[P5_Final_2.jpg]]
