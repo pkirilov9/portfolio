@@ -1,5 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import "./styles/custom.css";
+
 
 const config: QuartzConfig = {
   configuration: {
