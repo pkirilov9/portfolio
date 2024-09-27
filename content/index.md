@@ -27,7 +27,7 @@ I invite you to begin this journey with this visual allegory of my self-percepti
 ## [[PERFORMATIVITY]]
 <p align="justify">Performativity in architecture moves beyond static representations to encompass iterative, repeatable processes that make the intangible tangible. It is about understanding architecture not merely as an object, but as a practice of enacting, doing, and engaging with the forces that shape space. This approach reveals architecture’s capacity to transform and catalyse experiences through dynamic relationships, rather than fixed outcomes.</p>
 
-![[P5_Final_2.jpg|hm-sm]]
+![[P5_Final_2.jpg]]
 
 ## [[SYSTEMS > OBJECTS]]
 <p align="justify">Architecture transcends the limits of the built form when we focus on systems rather than objects. I am interested in the processes that govern the profession and the ways in which architecture engages with broader political, social, and economic systems. This shift in focus redefines the role of the architect—not as a creator of isolated objects, but as a facilitator of relations, enabling new potentials within the spaces we inhabit. </p>
