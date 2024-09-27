@@ -1,17 +1,3 @@
-@use "./base.scss";
-
-/* reading mode */
-.markdown-preview-view p {
-	text-align: justify;
-	text-justify: inter-word;	
-}
-
-/* source view and live preview */
-.markdown-source-view.mod-cm6 .cm-line {
-	text-align: justify;
-	text-justify: inter-word;	
-}
-
 [
 alt
 ~="vid-20"] video {
