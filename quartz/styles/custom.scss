@@ -1,4 +1,61 @@
 @use "./base.scss";
 
+/* reading mode */
+.markdown-preview-view p {
+	text-align: justify;
+	text-justify: inter-word;	
+}
 
+/* source view and live preview */
+.markdown-source-view.mod-cm6 .cm-line {
+	text-align: justify;
+	text-justify: inter-word;	
+}
 
+[
+alt
+~="vid-20"] video {
+  width: 20%;
+}
+
+[
+alt
+~="vid-30"] video {
+  width: 30%;
+}
+
+[
+alt
+~="vid-40"] video {
+  width: 40%;
+}
+
+[
+alt
+~="vid-50"] video {
+  width: 50%;
+}
+
+[
+alt
+~="vid-60"] video {
+  width: 60%;
+}
+
+[
+alt
+~="vid-70"] video {
+  width: 70%;
+}
+
+[
+alt
+~="vid-80"] video {
+  width: 80%;
+}
+
+[
+alt
+~="vid-90"] video {
+  width: 90%;
+}
