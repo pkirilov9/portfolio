@@ -1,0 +1,19 @@
+/* Justify text for the main content */
+body,
+.markdown-preview-view p {
+    text-align: justify;
+}
+
+/* Justify text for lists */
+ul,
+ol {
+    text-align: justify;
+}
+
+/* Apply justification to video elements if needed */
+video {
+    max-width: 100%;
+    margin: auto; /* Center videos */
+    display: block; /* Make sure it’s treated as a block element */
+}
+
