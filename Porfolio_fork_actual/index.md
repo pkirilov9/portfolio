@@ -26,7 +26,7 @@ Performativity in architecture moves beyond static representations to encompass 
 
 ![[P5_Final_2.jpg]]
 
-[[SYSTEMS > OBJECTS]]
+#### [[SYSTEMS > OBJECTS]]
 Architecture transcends the limits of the built form when we focus on systems rather than objects. I am interested in the processes that govern the profession and the ways in which architecture engages with broader political, social, and economic systems. This shift in focus redefines the role of the architect—not as a creator of isolated objects, but as a facilitator of relations, enabling new potentials within the spaces we inhabit.
 
 ![[WallHouse_GraphicPipeline_VerticesOverlaid.jpg]]
