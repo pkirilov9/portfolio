@@ -19,7 +19,7 @@ I have long been disillusioned with the propagated ideal of the architect as an 
 Throughout this field of exploration, I aim to position myself as a professional through grounded examples, experiments, and actions rather than a sequence of polished speculative projects. Hence, I have chosen to break the journey into five interwoven themes: [[MAKING]], [[PERFORMATIVITY]], [[SYSTEMS > OBJECTS]], [[SOCIAL-IMPACTFUL-CONTEXTUAL]], and [[VISUAL CULTURE]]. Each topic serves as an entry point into the broader networks of thought, practice, and experimentation that define my evolving approach to architecture. These topics are not isolated but interconnected, forming a landscape of ideas that reflect my engagement with the discipline as a dynamic and process-driven field.
 
 
-### [[MAKING]]
+## [[MAKING]]
 I approach architecture as a practice of doing, an active process of tracing the flow of materials and the connections between parts, where form emerges through production rather than imposition. I engage with architecture from the middle (not to be confused with the centre), positioning myself in the midst of things, and embracing the messy, physical, and hands-on nature of the craft, as the interactions between forms often become more important than the forms themselves.
 
 ![[201688fd819a4fbb9b67fabef9908048 1.mov|vid-50]]
