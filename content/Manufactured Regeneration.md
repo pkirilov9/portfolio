@@ -3,8 +3,7 @@
 
 Kochi, located on the southwest coast of India in the state of Kerala, is steeped in a rich history of traders, travellers, and the spice trade. Its southeastern region, Fort Kochi, has long been a melting pot of diverse cultures, with people from various backgrounds leaving their mark on the area’s urban fabric. Over time, these communities have shaped Fort Kochi’s vibrant identity, enriching it with distinctive ornaments, rituals, and traditions. However, this cultural diversity, once the area’s greatest asset, has increasingly been exploited as a tool for tourism and economic survival, resulting in a slow erosion of its authentic vibrancy.
 
-![[4.WasteFootprintReduced-copy.jpg]]
-*<p align=center> Waste footprint of Kochi. </p>*
+![[4.WasteFootprintReduced-copy 1.jpg]]*<p align=center> Waste footprint of Kochi. </p>*
 
 A significant issue impacting Fort Kochi is its lack of proper waste management. Open dumping of waste has polluted public spaces and contaminated the canals that flow through the city. These canals, treated as dumping grounds, have become clogged, leading to drainage blocks and increased vulnerability to floods, especially during monsoon seasons. The areas generating the most waste are also the most flood-prone, highlighting the consequences of the city's unsustainable practices. The waste piles up, exacerbating the flooding problem and further affecting the livelihoods of the residents.
 
@@ -22,7 +21,7 @@ The city’s economic fragility is apparent during crises, such as floods, when 
 ![[14.RoofPlan 1.jpg]]
 *<p align=center> Roof plan. </p>*
 
-![[15.GroundFloorPlan-Reduced.jpg]]
+![[15.GroundFloorPlan-Reduced 1.jpg]]
 *<p align=center> Ground floor plan. </p>*
 
 Positioned along the Eraveli canal, the site is accessible to multiple communities and aims to foster cultural exchange and innovation. The design embraces the site’s natural landscape, working around trees and elevating buildings to mitigate flood risks. Workshops are spread across smaller buildings, creating courtyards and encouraging interaction between users. Elevated walkways facilitate movement, while open workshop spaces and pivot doors blur the boundary between public and private, inviting curiosity. Rainwater harvesting is integrated into the design, contributing to sustainable water management and helping to clean the canal over time.
@@ -38,8 +37,6 @@ Positioned along the Eraveli canal, the site is accessible to multiple communiti
 
 ![[SiteSectionFullImage_Appendices3_Kirilov_Petar_Unit5 1.jpg]]
 *<p align=center> Site section. </p>*
+![[24.AtmoshpericWithTrees-copy 1.jpg]]*<p align=center> Fab Lab on a rainy day. </p>*
 
-![[24.AtmoshpericWithTrees-copy.jpg]]
-*<p align=center> Fab Lab on a rainy day. </p>*
-
-The three postulates of the project [[SOCIAL-IMPACTFUL-CONTEXTUAL]], its goal being, that Fort Kochi’s traditions of craftsmanship to be revived, and the community to be empowered to shape its future. By fostering collaboration, innovation, and local production, the Fab Lab will strengthen social bonds, encourage sustainable practices, and help form a new identity for Fort Kochi, grounded in the exchange of ideas and collective effort.
+The three postulates of the project are [[SOCIAL-IMPACTFUL-CONTEXTUAL]], its goal being, Fort Kochi’s traditions of craftsmanship to be revived, and the community to be empowered to shape its future. By fostering collaboration, innovation, and local production, the Fab Lab will strengthen social bonds, encourage sustainable practices, and help form a new identity for Fort Kochi, grounded in the exchange of ideas and collective effort.

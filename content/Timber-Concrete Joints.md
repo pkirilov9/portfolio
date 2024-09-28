@@ -9,7 +9,7 @@ Exploring the viability of concrete-timber joints started as an exercise in [[MA
 ![[Screenshot-2024-08-06-at-12.05.19.jpg]]
 *<p align=center> First prototype. </p>* 
 
-![[Reimagining-Nervi-Formwork.jpg]]
+![[Reimagining-Nervi-Formwork 1.jpg]]
 *<p align=center> Mould dimensions. </p>* 
 
 ![[Screenshot-2024-08-06-at-12.05.12.jpg]]

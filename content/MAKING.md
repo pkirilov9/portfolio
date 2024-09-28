@@ -1,15 +1,15 @@
 Architectural endeavours seem forever caught up in reconciling the gap between the pull of hopes and dreams and the drag of material constraint. This cornerstone of architectural production, where the ambitious reach of our imaginations rubs against the rough edges of the world, has become a personal favourite of mine. I have grown to love the contamination of the pristine architectural ideals, often conceived in solitary confinement, with the uneven, imperfect conditions of the environments where human life is lived. Practice becomes most exciting and incisive in this productive antagonism between the two, which pushes towards unforeseen acts of reconciliation. My first steps in this direction were before I even started my professional education, back in 2017, when I volunteered for the [[Re-Boeritsa]] project, which comprised the renovation of a mountain hut in Vitosha, the mountain bordering my hometown Sofia. 
 
-![[IMG_1101-1.jpg]]
-*<p align=center> Me - an active participant in demolition. </p>*
 
+![[IMG_1101-1 1.jpg]]*<p align=center> Me - an active participant in demolition. </p>
+\
 The hylomorphic model of production, pervasive in the architectural sphere, constrains creative potential by imposing rigid thought patterns on the design process. It frames making as a linear project—beginning with a fixed idea, manipulating raw materials, and concluding with a predetermined form. In doing so, it enforces a top-down approach, where practitioners impose mental blueprints onto the physical world, neglecting the dynamic, emergent properties of materials and processes. This model limits active, responsive thought, reducing architecture to static outputs rather than engaging with the fluid, evolving realities of creation.
 
 Contrary to hylomorphic dogmas, form is ever emergent rather than given in advance. Making is not about imposing a fixed design onto raw materials but about revealing the inherent potential within a dynamic world. Creation unfolds step by step, with each phase leading naturally into the next, often surpassing the original vision. Such was the case with the projects [[Bird's Nest]] and [[Polycarbonate Firefly]] whose qualities and meaning arose alongside their production due to the open communication between material, environment, and maker(s). 
 
 ![[IMG_3749.jpg]]
 *<p align=center> Material selection for 'Bird Nest. </p>*
-
+\
 ![[IMG_0405.jpg]]
 *<p align=center> Demountable, stackable panels for 'Polycarbonate Firefly'. </p>*
 

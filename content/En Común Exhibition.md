@@ -1,8 +1,8 @@
 As a part of Tatiana Bilbao Estudio's exhibition team, I had the opportunity to be part of the curation and production of several exhibitions, one of them being 'En Comun' in the 'Aedes Gallery' in Berlin. The exhibition highlighted seven of the studio's projects through artefacts and collages that tackled the question of how we might become better at living together. 
 
-![[AedesExpoPoster_Clean-1.jpg]]
+![[AedesExpoPoster_Clean-1 1.jpg]]
 
-![[collage-panel-dos_NEW.jpg]]
+![[collage-panel-dos_NEW 1.jpg]]
 
 ![[20220513_En-Comun---Tatiana-Bilbao_Exh_03.jpg]]
 
