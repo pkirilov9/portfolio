@@ -61,8 +61,7 @@ const config: QuartzConfig = {
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources({ fontOrigin: "googleFonts" }),
-      additionalCss: ["/assets/css/custom.css"], // Add this line to link your custom CSS
-      ),
+      additionalCss: "/assets/css/custom.css", // Add this line to link your custom CSS
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
