@@ -4,9 +4,6 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  customElements: [
-      `<link rel="stylesheet" href="/portfolio-quartz/quartz/styles/custom.scss">`, // Adjust the path accordingly
-    ],
   header: [],
   footer: Component.Footer({
     links: {
@@ -23,6 +20,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.Graph(),
   ],
   left: [
     Component.PageTitle(),
@@ -32,7 +30,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
