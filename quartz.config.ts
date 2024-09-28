@@ -1,7 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🪴 Quartz 4.0",
@@ -60,8 +59,10 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources({ fontOrigin: "googleFonts" }),
-      additionalCss: "/assets/css/custom.css", // Add this line to link your custom CSS
+      Plugin.ComponentResources({
+        fontOrigin: "googleFonts",
+        additionalCss: ["/assets/css/custom.css"], // Add this line to link your custom CSS
+      }),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
