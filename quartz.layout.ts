@@ -4,8 +4,9 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  customCss: "/portfolio-quartz/quartz/styles/JustifyText.css", 
-  }),
+  customElements: [
+      `<link rel="stylesheet" href="/portfolio-quartz/quartz/styles/custom.scss">`, // Adjust the path accordingly
+    ],
   header: [],
   footer: Component.Footer({
     links: {
