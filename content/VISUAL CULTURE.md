@@ -21,6 +21,6 @@ Although the over-dependence on visuality in architecture has its drawbacks, the
 Moreover, the use of imagery can be reoriented to be productive rather than confining. By critically engaging with visual media, architects can subvert the limitations of the image. The group project [[Psyri Unscripted]] aimed to do just that by investigating the public image of architecture built around the proliferation of digital images in various media platforms. Much of what is considered to be the expectation of a built environment can be called its exo-identity. An exo-identity is a mental projection or an image of a place, an expectation composed from sources other than direct experience.  Exo-identities are created and consist of expectations that need to be met, but will never truly fit their premise. The exo-identity is thus continuously reaffirmed and recreated over and over again by those who are in need of seeing their expectations met, creating a scripted and predictable experience of place. 
 
 
-![[Proposal-A1.jpg]]*<p align=center> Layout for the Instagram page of 'Psyri Unscripted'. </p>
+![[Proposal-A1 1.jpg]]*<p align=center> Layout for the Instagram page of 'Psyri Unscripted'. </p>
 
 As part of the [[Psyri Unscripted]] project, we developed a foldable leaflet that can generate unscripted ideas and encounters by bringing unfamiliar or opposing demographics, places, and uses closer to each other. Thereby, it opened up the possibility for the one folding the leaflet to imagine unscripted interactions and new modes of being. 

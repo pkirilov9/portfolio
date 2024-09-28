@@ -4,17 +4,17 @@ Psyri has been subject to rapid gentrification in recent years as trendy spots p
 
 ![[Exo_IdentityCollage 1.jpg]]
 *<p align=center> Collage depicting the multitude of layers at play in 'Psyri Unscripted' . </p>*
-
+\
 The goal of the project was to identify the multitude of layers that Psyri was once home to, now subsisting only in its periphery, and find a way to reconcile them with the unstoppable wave called 'urban renewal'. 
 
 ![[Screenshot-2024-08-05-at-11.35.28 1.jpg]]
 *<p align=center> Double-sided piece that utilises a foldable grid to generate unscripted interactions.  </p>*
-
+\
 We approached this task in a speculative manner through the lens of [[PERFORMATIVITY]]. This double-sided piece utilised a grid as a generative tool, rather than a confining one, in order to stimulate unscripted moments and encounters through the act of folding. This enabled the possibility for otherwise distant, or opposing, topics to literally come closer and engage in productive conversation. 
 
 ![[combined-gif_03.gif]]
 *<p align=center> Layout for the Instagram page of 'Psyri Unscripted'. </p>*
-
+\
 Naturally, we presented our project and individual proposals in a format that suits them best - as an Instagram profile: https://www.instagram.com/psyri_unscripted/ 
 
 ![[DemocratisedSeating_IG3.jpg]]

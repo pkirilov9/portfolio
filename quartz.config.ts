@@ -42,7 +42,6 @@ const config: QuartzConfig = {
         },
       },
     },
-    customStyles: "styles/custom.css",
   },
   plugins: {
     transformers: [
