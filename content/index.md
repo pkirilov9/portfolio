@@ -4,14 +4,23 @@
  \
 I invite you to begin this journey with this visual allegory of my self-perception as a practitioner: 
 
-![[IntroClip_Annotated.mp4]]
-*<p align=center >*Oscillating around the periphery of the architectural field, <p>*
-*<p align=center>in and out of its boundaries, mingling,<p>*
-*<p align=center> captivated by the objects, systems, and entities <p>*
-*<p align=center> that constitute the interplay of forces <p>*
-*<p align=center> which cut, deform, and (re)define the architectural field <p>*
-*<p align= center>together with its boundaries, topography, and perception.* </p>* 
-\
+<div style="text-align: center;">
+    <video src="IntroClip_Annotated.mp4" controls style="max-width: 500px; width: 100%; height: auto;">
+    </video>
+</div>
+
+<!-- <div style="text-align: center;">
+    <img src="path/to/your/image.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+ -->
+
+<p align=center >*Oscillating around the periphery of the architectural field, <p>
+<p align=center>in and out of its boundaries, mingling,<p>
+<p align=center> captivated by the objects, systems, and entities <p>
+<p align=center> that constitute the interplay of forces <p>
+<p align=center> which cut, deform, and (re)define the architectural field <p>
+<p align= center>together with its boundaries, topography, and perception.* </p>*
+
 I have long been disillusioned with the propagated ideal of the architect as an autonomous master-creator, who artfully drops objects in the urban grid. No longer mesmerised by the promise of stellar recognition, and therefore validation, my focus shifted from the pristine architectural object, and its projected vision, towards the processes and networks it is entangled in. What followed was often accompanied by lots of blisters, cuts, matted hair, bruises, and blackened snot. However, what became truly valuable in this process of hands-on engagement and exploration was that I gained an understanding of architectural practice as the constant oscillation between becoming-major and becoming-minor. It is precisely this fluctuating nature of production that I am after. I have come to love the process of contamination of the major, elevated, pristine architectural ideal, conceived in isolation and rooted in the rational, with the minor, gritty, contingent reality of day-to-day practices and interrelations. 
 
 Throughout this field of exploration, I aim to position myself as a professional through grounded examples, experiments, and actions rather than a sequence of polished speculative projects. Hence, I have chosen to break the journey into five interwoven themes: [[MAKING]], [[PERFORMATIVITY]], [[SYSTEMS > OBJECTS]], [[SOCIAL-IMPACTFUL-CONTEXTUAL]], and [[VISUAL CULTURE]]. Each topic serves as an entry point into the broader networks of thought, practice, and experimentation that define my evolving approach to architecture. These topics are not isolated but interconnected, forming a landscape of ideas that reflect my engagement with the discipline as a dynamic and process-driven field.
