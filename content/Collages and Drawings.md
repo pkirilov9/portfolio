@@ -13,6 +13,7 @@ Over the years, my proficiency in image-making has grown through countless hours
 </div>
 *<p align=center> Exploded Axonometry of 'Casa Luis Barragan'. </p>*
 \
+
 ![[BirdNest2a 2.jpg]]
 *<p align=center>Collage for the project 'Bird's Nest' by Tatiana Bilbao Estudio. </p>*
 \
@@ -25,18 +26,22 @@ Over the years, my proficiency in image-making has grown through countless hours
 ![[StructureSketch 1.jpg]]
 *<p align=center>Proposal for split-level housing. </p>*
 \
+
 <div style="text-align: center;">
     <img src="EnsoCollageIdea3 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
+
 ![[EnsoHotelFloorPlan250A4 1.jpg]]
 ![[EnsoVisual1 1.jpg]]
 *<p align=center>Collages for the project 'Hotel Enso' by Tatiana Bilbao Estudio. </p>*
 \
+
 <div style="text-align: center;">
     <img src="OrangeSkyBlueClouds-copy-2-2-1 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
 *<p align=center>'Orage sky, blue clouds'. </p>*
 \
+
 ![[LosTerrenosCollage_New 1.jpg]]
 *<p align=center> Collage for the project 'Los Terrenos' by Tatiana Bilbao Estudio.</p>*
 \
