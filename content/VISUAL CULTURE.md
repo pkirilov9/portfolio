@@ -31,6 +31,6 @@ Moreover, the use of imagery can be reoriented to be productive rather than conf
     <img src="Proposal-A1 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
 
-*<p align=center> Layout for the Instagram page of 'Psyri Unscripted'. </p>
+*<p align=center> Layout for the Instagram page of 'Psyri Unscripted'. </p>*
 
 As part of the [[Psyri Unscripted]] project, we developed a foldable leaflet that can generate unscripted ideas and encounters by bringing unfamiliar or opposing demographics, places, and uses closer to each other. Thereby, it opened up the possibility for the one folding the leaflet to imagine unscripted interactions and new modes of being. 
