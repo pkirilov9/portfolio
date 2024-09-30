@@ -2,9 +2,12 @@ As a part of Tatiana Bilbao Estudio's exhibition team, I had the opportunity to 
 
 ![[AedesExpoPoster_Clean-1 1.jpg]]
 
-![[collage-panel-dos_NEW 1.jpg]]
-
-![[20220513_En-Comun---Tatiana-Bilbao_Exh_03.jpg]]
+<div style="text-align: center;">
+    <img src="collage-panel-dos_NEW 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+<div style="text-align: center;">
+    <img src="20220513_En-Comun---Tatiana-Bilbao_Exh_03.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 
 ![[20220513_En-Comun---Tatiana-Bilbao_Exh_13.jpg]]
 

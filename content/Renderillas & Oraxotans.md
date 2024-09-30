@@ -2,7 +2,10 @@ The idea for the title comes from the reduction of the architect's role in the c
 
 This project is subject to extensive theoretical research which explores the dominant representational modes of production that stifle contemporary practice. To dig deeper into these topics and to familiarise yourself with the concepts that have become foundational to the project, please visit the explorative repository, which also doubles as my diploma thesis: https://pkirilov9.github.io/renderillas-and-oraxontans/.  
 
-![[P5_Final_1.jpg]]![[P5_Final3.jpg]]
+<div style="text-align: center;">
+    <img src="P5_Final_1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+![[P5_Final3.jpg]]
 *<p align=center> Diagrammatic comparison 'between Representational Thinking' and 'Performativity'. </p>*
 \
 Through my research, I arrived at the notion of [[PERFORMATIVITY]], which became incremental to my approach as I followed the principles laid out in this diagram. The goal was to explore this counter-action and its viability in providing an alternative to the dominant representational norm. 

@@ -12,7 +12,9 @@ The goal of the project was to identify the multitude of layers that Psyri was o
 \
 We approached this task in a speculative manner through the lens of [[PERFORMATIVITY]]. This double-sided piece utilised a grid as a generative tool, rather than a confining one, in order to stimulate unscripted moments and encounters through the act of folding. This enabled the possibility for otherwise distant, or opposing, topics to literally come closer and engage in productive conversation. 
 
-![[combined-gif_03.gif]]
+<div style="text-align: center;">
+    <img src="combined-gif_03.gif" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 *<p align=center> Layout for the Instagram page of 'Psyri Unscripted'. </p>*
 \
 Naturally, we presented our project and individual proposals in a format that suits them best - as an Instagram profile: https://www.instagram.com/psyri_unscripted/ 

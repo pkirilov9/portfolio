@@ -4,7 +4,9 @@ As a part of my internship in 'Other', I had an integral part in the design and 
 
 The design had to be easy to assemble, disassemble and store because the cabins would not be needed during the warmer periods of the year. The solution was a modular structure made of polycarbonate panels and timber frames. 
 
-![[IMG_7493.jpg]]
+<div style="text-align: center;">
+    <img src="IMG_7493.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 
 The polycarbonate provides a semi-private atmosphere, allowing visitors to see if the cabin is empty or taken, to recognise their friends inside, and to enjoy the outdoor space through a different, more diffused lens. At night, when the lights inside are turned on, the cabins begin to look like fireflies and provide a serene and magical feeling to the surroundings.
 

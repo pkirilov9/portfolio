@@ -4,11 +4,17 @@ Soon after the fall of the socialist regime in the late 80s, however, the dreams
 
 In the following booklets, you can explore this complex condition for yourself and get familiar with the site. 
 
-![[Archive.pdf]]
+<div style="text-align: center;">
+    <img src="Archive.pdf" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 *<p align=center> Archival photos of Zona B-5. </p>*
 \
-![[Modifications.pdf]]
+<div style="text-align: center;">
+    <img src="Modifications.pdf" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 *<p align=center> Various facade modifications. </p>*
 \
-![[Subcultures.pdf]]
+<div style="text-align: center;">
+    <img src="Subcultures.pdf" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 *<p align=center> From graffiti, and parkour, to rappers and snowboarders, Zona B-5 is a hub for various subcultures, which are drawn to the rough, modernist urban features of the housing complex. </p>*

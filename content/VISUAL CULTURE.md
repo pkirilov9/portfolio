@@ -4,10 +4,14 @@
 
 This video, composed of [[Collages and Drawings]] made by myself, illustrates my frustration and fear of the path many young professionals end up on - stuck behind a desk, endlessly pouring creative content against the pressure of the clock. Although I understand the importance of image production and I pride myself on the quality and originality of the content I produce, I can't help but feel that the overemphasis on visuality is a key part of a wider system which reduces architecture to a commodity, a spectacle that further fortifies the ever so present attention economy. In a profession so dominated by the image, it becomes essential to question how much of architecture is being dictated by the visual, what systems uphold and maintain the networks in which it proliferates, how it informs perception, and how it homogenises virtual, and thereafter, physical space - questions which I explore in the [[Booklet of Exercises in Visual Literacy]] and [[Black Boxes, Pipelines, and Whatnots]]. 
 
-![[R&O_Exerices7.jpg]]
+<div style="text-align: center;">
+    <img src="R&O_Exerices7.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 *<p align=center> Exercise #4 from the 'Booklet of Exercises in Visual Literacy'. </p>*
 
-![[Screens_InitialDecoding copy.jpg]]
+<div style="text-align: center;">
+    <img src="Screens_InitialDecoding copy.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 *<p align=center> Documenting the contemporary museum/gallery experience through visitors’ screens as a part of 'Black Boxes, Pipelines, and Whatnots'. </p>*
 
 
@@ -21,6 +25,9 @@ Although the over-dependence on visuality in architecture has its drawbacks, the
 Moreover, the use of imagery can be reoriented to be productive rather than confining. By critically engaging with visual media, architects can subvert the limitations of the image. The group project [[Psyri Unscripted]] aimed to do just that by investigating the public image of architecture built around the proliferation of digital images in various media platforms. Much of what is considered to be the expectation of a built environment can be called its exo-identity. An exo-identity is a mental projection or an image of a place, an expectation composed from sources other than direct experience.  Exo-identities are created and consist of expectations that need to be met, but will never truly fit their premise. The exo-identity is thus continuously reaffirmed and recreated over and over again by those who are in need of seeing their expectations met, creating a scripted and predictable experience of place. 
 
 
-![[Proposal-A1 1.jpg]]*<p align=center> Layout for the Instagram page of 'Psyri Unscripted'. </p>
+<div style="text-align: center;">
+    <img src="Proposal-A1 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+*<p align=center> Layout for the Instagram page of 'Psyri Unscripted'. </p>
 
 As part of the [[Psyri Unscripted]] project, we developed a foldable leaflet that can generate unscripted ideas and encounters by bringing unfamiliar or opposing demographics, places, and uses closer to each other. Thereby, it opened up the possibility for the one folding the leaflet to imagine unscripted interactions and new modes of being. 
