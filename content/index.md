@@ -3,7 +3,7 @@
 <p align=center> I invite you to begin this journey with this visual allegory of my self-perception as a practitioner: </p>
 
 <div style="text-align: center;">
-    <video src="IntroClip_Annotated.mp4" controls style="max-width: 500px; width: 100%; height: auto;">
+    <video src="IntroClip_Annotated_Reduced.mp4" controls style="max-width: 500px; width: 100%; height: auto;">
     </video>
 </div>
 
