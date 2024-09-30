@@ -16,7 +16,7 @@ Over the years, my proficiency in image-making has grown through countless hours
 </div>
 
 *<p align=center> Exploded Axonometry of 'Casa Luis Barragan'. </p>*
-\
+
 
 <div style="text-align: center;">
     <img src="BirdNest2a 2.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
