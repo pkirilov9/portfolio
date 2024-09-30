@@ -1,6 +1,6 @@
  # <p align=center> Welcome to my explorative repository!</p>
  ***<p align=center text-align: justify>This is not exactly a portfolio... it is a field of exploration and experimentation that tracks my approach to architecture as an evolving process. </p>*** 
- \
+\
 <p align=center> I invite you to begin this journey with this visual allegory of my self-perception as a practitioner: </p>
 
 <div style="text-align: center;">
