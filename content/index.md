@@ -1,18 +1,11 @@
  # <p align=center> Welcome to my explorative repository!</p>
  ***<p align=center text-align: justify>This is not exactly a portfolio... it is a field of exploration and experimentation that tracks my approach to architecture as an evolving process. </p>*** 
-\
 <p align=center> I invite you to begin this journey with this visual allegory of my self-perception as a practitioner: </p>
 
 <div style="text-align: center;">
     <video src="IntroClip_Annotated.mp4" controls style="max-width: 500px; width: 100%; height: auto;">
     </video>
 </div>
-
-<!-- <div style="text-align: center;">
-    <img src="path/to/your/image.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
-</div>
- -->
-
 
 *<p align=center >Oscillating around the periphery of the architectural field, <p>*
 *<p align=center>in and out of its boundaries, mingling,<p>*

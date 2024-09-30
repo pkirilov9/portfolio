@@ -4,8 +4,15 @@ Bird's Nest is a project by Tatiana Bilbao Estudio, where I participated in the 
 ![[BirdNest2a 1.jpg]]
 *<p align=center> Initial collages. </p>*
 \
-![[4E6C1A9E-6D7D-4A24-881D-442BB3C65C5C_1_102_o.jpg]]
-![[D1A4D13C-9FC4-4B36-B325-984E0D462682_1_105_c 1.jpg]]
+<div style="text-align: center;">
+    <img src="4E6C1A9E-6D7D-4A24-881D-442BB3C65C5C_1_102_o.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+<div style="text-align: center;">
+    <img src="D1A4D13C-9FC4-4B36-B325-984E0D462682_1_105_c 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+<div style="text-align: center;">
+    <img src="00DF6A59-C0A9-4D58-9069-8F5BEA51BF5A_1_105_c.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 ![[00DF6A59-C0A9-4D58-9069-8F5BEA51BF5A_1_105_c.jpg]]
 *<p align=center> Material options and selection. </p>*
 \
