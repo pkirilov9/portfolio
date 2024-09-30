@@ -7,11 +7,13 @@ This video, composed of [[Collages and Drawings]] made by myself, illustrates my
 <div style="text-align: center;">
     <img src="R&O_Exerices7.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
+
 *<p align=center> Exercise #4 from the 'Booklet of Exercises in Visual Literacy'. </p>*
 
 <div style="text-align: center;">
     <img src="Screens_InitialDecoding copy.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
+
 *<p align=center> Documenting the contemporary museum/gallery experience through visitors’ screens as a part of 'Black Boxes, Pipelines, and Whatnots'. </p>*
 
 
@@ -28,6 +30,7 @@ Moreover, the use of imagery can be reoriented to be productive rather than conf
 <div style="text-align: center;">
     <img src="Proposal-A1 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
+
 *<p align=center> Layout for the Instagram page of 'Psyri Unscripted'. </p>
 
 As part of the [[Psyri Unscripted]] project, we developed a foldable leaflet that can generate unscripted ideas and encounters by bringing unfamiliar or opposing demographics, places, and uses closer to each other. Thereby, it opened up the possibility for the one folding the leaflet to imagine unscripted interactions and new modes of being. 

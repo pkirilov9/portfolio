@@ -12,15 +12,18 @@ The performative approach provides an alternative to the traditional way of prod
 <div style="text-align: center;">
     <img src="R&O_Exerices3.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
+
 *<p align=center> Exercise #1 from the 'Booklet of Exercises in Visual Literacy'. </p>*
-\
+
+
 One way to apply this theoretical framework is by creating "performative archives" - places where the archival entries should be accessible as reusable data that lends itself to further editing. In the process of addition, reproduction, and alteration, such structures allow for the possibility of contesting co-utterances. As a result, the project attains new meaning as a dynamic and elastic frame that can produce and support a series of projects that are a part of it. This was indeed the concept for my graduation project [[Renderillas & Oraxotans]], where I proposed a physical performative archive which can constitute new processes and modes of thinking that address the urgent topic of energetic renewal of socialist-modernist housing blocks. 
 
 <div style="text-align: center;">
     <img src="IMG_0021 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
+
 *<p align=center> Courtyard "gridding" - part of 'Renderillas and Oraxotans'. </p>*
-\
+
 Performativity, in architecture, treats buildings as open-ended processes rather than finished products. Architectural forms become remnants of ongoing interactions, acknowledging that shaping forces continue long after construction. This approach dismantles the ego of the creator, embracing a fluid process where ideas and influences shift over time. A process which is not familiar or desirable to many professionals in the field. I was intrigued by this and tested it myself in the liberating exercise called [[Kill Your Darlings]].  By moving beyond preconceptions, architects can liberate their work, allowing it to evolve and breathe, continuously responding to its surroundings and context.
 
 ![[FAAA4B87-BD1F-47DF-AB74-74EE55776B5A 1.jpg]]

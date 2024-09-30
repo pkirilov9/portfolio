@@ -15,8 +15,9 @@ We approached this task in a speculative manner through the lens of [[PERFORMATI
 <div style="text-align: center;">
     <img src="combined-gif_03.gif" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
+
 *<p align=center> Layout for the Instagram page of 'Psyri Unscripted'. </p>*
-\
+
 Naturally, we presented our project and individual proposals in a format that suits them best - as an Instagram profile: https://www.instagram.com/psyri_unscripted/ 
 
 ![[DemocratisedSeating_IG3.jpg]]

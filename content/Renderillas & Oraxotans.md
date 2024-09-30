@@ -5,9 +5,13 @@ This project is subject to extensive theoretical research which explores the dom
 <div style="text-align: center;">
     <img src="P5_Final_1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
-![[P5_Final3.jpg]]
+
+<div style="text-align: center;">
+    <img src="P5_Final3.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 *<p align=center> Diagrammatic comparison 'between Representational Thinking' and 'Performativity'. </p>*
-\
+
 Through my research, I arrived at the notion of [[PERFORMATIVITY]], which became incremental to my approach as I followed the principles laid out in this diagram. The goal was to explore this counter-action and its viability in providing an alternative to the dominant representational norm. 
 
 After careful consideration, I chose a socialist-modernist housing complex in my hometown Sofia, called 'Zona B-5' as the site for intervention. The goal of the proposal is to provide a feasible solution to the impasse that such housing blocks impose when it comes to energetic renewal. The extremely high percentage of private ownership, combined with institutional negligence, and a sense of sacrality of private property and interest, common to the region, has resulted in fragmentation and neglect. The governmental renovation programs that are in place have proven to be unsuccessful and problematic, hence my desire to come up with a [[SOCIAL-IMPACTFUL-CONTEXTUAL]] solution to the problem, which takes into account the complex meshwork of systems and interests that have led to this condition. To learn more about the site and its tremulous past and present condition go to [[ZB5 Background]]. 

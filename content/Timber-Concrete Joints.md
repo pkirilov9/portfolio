@@ -9,6 +9,7 @@ Exploring the viability of concrete-timber joints started as an exercise in [[MA
 <div style="text-align: center;">
     <img src="Screenshot-2024-08-06-at-12.05.19.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
+
 *<p align=center> First prototype. </p>* 
 
 ![[Reimagining-Nervi-Formwork 1.jpg]]

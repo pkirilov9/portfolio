@@ -3,6 +3,7 @@ Architecture, far from existing as isolated objects or static forms, is entangle
 <div style="text-align: center;">
     <img src="R&O_Exerices.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
+
 *<p align=center> Cover page of 'Booklet of Exercises in Visual Literacy'. </p>*
 
 Digging even further, I was interested in the tools we use as professionals to produce the precious images that quantify our labour. As professional media producers, our practices are tightly defined by the affordances of mainstream software applications and ecosystems. CAD and BIM softwares have become the bread and butter of our profession since they enable the production and proliferation of digital images, however, there is a total lack of transparency in their modes of operation, leaving us in awe of their "magical" capabilities. Determined to gain a better understanding of the systems that condition architectural production I wanted to elucidate the processes that go within those "magic boxes", which became the driving force behind the project [[Black Boxes, Pipelines, and Whatnots]]. 
