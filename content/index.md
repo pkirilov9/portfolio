@@ -38,20 +38,36 @@ I approach architecture as a practice of doing, an active process of tracing the
 ## [[PERFORMATIVITY]]
 Performativity in architecture moves beyond static representations to encompass iterative, repeatable processes that make the intangible tangible. It is about understanding architecture not merely as an object, but as a practice of enacting, doing, and engaging with the forces that shape space. This approach reveals architecture’s capacity to transform and catalyse experiences through dynamic relationships, rather than fixed outcomes.
 
+<div style="text-align: center;">
+    <img src="P5_Final_2.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 ![[P5_Final_2.jpg]]
 
 ## [[SYSTEMS > OBJECTS]]
 Architecture transcends the limits of the built form when we focus on systems rather than objects. I am interested in the processes that govern the profession and the ways in which architecture engages with broader political, social, and economic systems. This shift in focus redefines the role of the architect—not as a creator of isolated objects, but as a facilitator of relations, enabling new potentials within the spaces we inhabit.
+
+<div style="text-align: center;">
+    <img src="WallHouse_GraphicPipeline_VerticesOverlaid.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 
 ![[WallHouse_GraphicPipeline_VerticesOverlaid.jpg]]
 
 ## [[SOCIAL-IMPACTFUL-CONTEXTUAL]]
 At the core of my work is the belief that architecture must engage with the social realities of the people it serves. I strive to create architecture that has a direct, positive impact on communities. This requires the architect to be less of a detached visionary and a more engaged, responsive practitioner who prioritises human relationships and contextual realities.
 
+<div style="text-align: center;">
+    <img src="PosterGIFF.gif" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 ![[PosterGIFF.gif]]
 
 ## [[VISUAL CULTURE]]
 In a world dominated by visual representation, architecture is often reduced to images—static, consumable icons detached from the processes that generate them. While I value the visual aspects of architectural production, I also seek to move beyond this surface, exploring how images can both shape and limit perception. My interest lies in how these visual representations interact with the wider ecology of media, memory, and meaning in architecture. 
+
+<div style="text-align: center;">
+    <img src="ExhibitB 1 1.gif" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
 
 ![[ExhibitB 1 1.gif]]
 
