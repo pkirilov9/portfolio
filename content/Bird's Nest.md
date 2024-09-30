@@ -22,7 +22,6 @@ Bird's Nest is a project by Tatiana Bilbao Estudio, where I participated in the 
     <img src="2C1667BF-D425-448F-83B4-9FDE94605818_1_105_c.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
 *<p align=center> Final pours. </p>*
-
 \
 <div style="text-align: center;">
     <img src="2FF2E2B5-79A3-41B8-AF1F-AB2563D8A6DF_1_105_c.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
