@@ -2,54 +2,85 @@ Over the years, my proficiency in image-making has grown through countless hours
 
 ![[220706_RDS_Sala2_WithObjects 1.jpg]]
 *<p align=center>Proposal for the exhibition ‘Rituales de Sanacion’/ ‘Rituals of Care’ commissioned to Tatiana Bilbao Estiudio for the largest South American design festival ‘Mextropoli’.</p>*
-\
+
 <div style="text-align: center;">
     <img src="21-copy-2 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
+
 *<p align=center>Proposal for a graffiti-friendly monument. </p>*
-\
+
 <div style="text-align: center;">
     <img src="Adobe-Scan-4-Jul-2021-2-1 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
-*<p align=center> Exploded Axonometry of 'Casa Luis Barragan'. </p>*
-\
 
-![[BirdNest2a 2.jpg]]
+*<p align=center> Exploded Axonometry of 'Casa Luis Barragan'. </p>*
+
+<div style="text-align: center;">
+    <img src="BirdNest2a 2.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 *<p align=center>Collage for the project 'Bird's Nest' by Tatiana Bilbao Estudio. </p>*
-\
-![[EcoleMaternelleIdea 1.jpg]]
+
+<div style="text-align: center;">
+    <img src="EcoleMaternelleIdea 1.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 *<p align=center> Collage for the project "Ecole Maternelle" by Tatiana Bilbao Estudio. </p>*
-\
-![[Kirilov_Petar_MaterialsAndMaterialExchange-copy-2-1 1.jpg]]
+
+<div style="text-align: center;">
+    <img src="Kirilov_Petar_MaterialsAndMaterialExchange-copy-2-1 1.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 *<p align=center>Exploration of material decay. </p>*
-\
-![[StructureSketch 1.jpg]]
+
+<div style="text-align: center;">
+    <img src="StructureSketch 1.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 *<p align=center>Proposal for split-level housing. </p>*
-\
+
 
 <div style="text-align: center;">
     <img src="EnsoCollageIdea3 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
 
-![[EnsoHotelFloorPlan250A4 1.jpg]]
-![[EnsoVisual1 1.jpg]]
+<div style="text-align: center;">
+    <img src="EnsoHotelFloorPlan250A4 1.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
+<div style="text-align: center;">
+    <img src="EnsoVisual1 1.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 *<p align=center>Collages for the project 'Hotel Enso' by Tatiana Bilbao Estudio. </p>*
-\
+
 
 <div style="text-align: center;">
     <img src="OrangeSkyBlueClouds-copy-2-2-1 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
-*<p align=center>'Orage sky, blue clouds'. </p>*
-\
 
-![[LosTerrenosCollage_New 1.jpg]]
+*<p align=center>'Orage sky, blue clouds'. </p>*
+
+<div style="text-align: center;">
+    <img src="LosTerrenosCollage_New 1.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 *<p align=center> Collage for the project 'Los Terrenos' by Tatiana Bilbao Estudio.</p>*
-\
-![[TorutgasCombined.jpg]]
+
+<div style="text-align: center;">
+    <img src="TorutgasCombined.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 *<p align=center> Collage for the project 'Casa Tortugas' by Tatiana Bilbao Estudio. </p>*
-\
-![[TatPosibilities 1 1.jpg]]
+
+<div style="text-align: center;">
+    <img src="TatPosibilities 1 1.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 *<p align=center> Tattoo ideas. </p>*
-\
-![[[ROJ]InfoCenter_FacadeVisual_220120PK-copy 2.jpg]]
+
+<div style="text-align: center;">
+    <img src="[ROJ]InfoCenter_FacadeVisual_220120PK-copy 2.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
+</div>
+
 *<p align=center> Visualisation for an Info Point in 'Geopark Ralsko'. </p>*
