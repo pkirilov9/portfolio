@@ -1,7 +1,6 @@
  # <p align=center> Welcome to my explorative repository!</p>
  ***<p align=center text-align: justify>This is not exactly a portfolio... it is a field of exploration and experimentation that tracks my approach to architecture as an evolving process. </p>*** 
  \
- \
 <p align=center> I invite you to begin this journey with this visual allegory of my self-perception as a practitioner: </p>
 
 <div style="text-align: center;">
@@ -31,43 +30,27 @@ Throughout this field of exploration, I aim to position myself as a professional
 I approach architecture as a practice of doing, an active process of tracing the flow of materials and the connections between parts, where form emerges through production rather than imposition. I engage with architecture from the middle (not to be confused with the centre), positioning myself in the midst of things, and embracing the messy, physical, and hands-on nature of the craft, as the interactions between forms often become more important than the forms themselves.
 
 <div style="text-align: center;">
-    <video src="201688fd819a4fbb9b67fabef9908048 1.mov" controls style="max-width: 400px; width: 100%; height: auto;">
+    <video src="201688fd819a4fbb9b67fabef9908048 1.mov" controls style="max-width: 300px; width: 100%; height: auto;">
     </video>
 </div>
 
 ## [[PERFORMATIVITY]]
 Performativity in architecture moves beyond static representations to encompass iterative, repeatable processes that make the intangible tangible. It is about understanding architecture not merely as an object, but as a practice of enacting, doing, and engaging with the forces that shape space. This approach reveals architecture’s capacity to transform and catalyse experiences through dynamic relationships, rather than fixed outcomes.
 
-<div style="text-align: center;">
-    <img src="P5_Final_2.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
-</div>
-
 ![[P5_Final_2.jpg]]
 
 ## [[SYSTEMS > OBJECTS]]
 Architecture transcends the limits of the built form when we focus on systems rather than objects. I am interested in the processes that govern the profession and the ways in which architecture engages with broader political, social, and economic systems. This shift in focus redefines the role of the architect—not as a creator of isolated objects, but as a facilitator of relations, enabling new potentials within the spaces we inhabit.
-
-<div style="text-align: center;">
-    <img src="WallHouse_GraphicPipeline_VerticesOverlaid.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
-</div>
 
 ![[WallHouse_GraphicPipeline_VerticesOverlaid.jpg]]
 
 ## [[SOCIAL-IMPACTFUL-CONTEXTUAL]]
 At the core of my work is the belief that architecture must engage with the social realities of the people it serves. I strive to create architecture that has a direct, positive impact on communities. This requires the architect to be less of a detached visionary and a more engaged, responsive practitioner who prioritises human relationships and contextual realities.
 
-<div style="text-align: center;">
-    <img src="PosterGIFF.gif" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
-</div>
-
 ![[PosterGIFF.gif]]
 
 ## [[VISUAL CULTURE]]
 In a world dominated by visual representation, architecture is often reduced to images—static, consumable icons detached from the processes that generate them. While I value the visual aspects of architectural production, I also seek to move beyond this surface, exploring how images can both shape and limit perception. My interest lies in how these visual representations interact with the wider ecology of media, memory, and meaning in architecture. 
-
-<div style="text-align: center;">
-    <img src="ExhibitB 1 1.gif" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
-</div>
 
 ![[ExhibitB 1 1.gif]]
 
