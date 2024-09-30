@@ -3,21 +3,21 @@ Over the years, my proficiency in image-making has grown through countless hours
 ![[220706_RDS_Sala2_WithObjects 1.jpg]]
 *<p align=center>Proposal for the exhibition ‘Rituales de Sanacion’/ ‘Rituals of Care’ commissioned to Tatiana Bilbao Estiudio for the largest South American design festival ‘Mextropoli’.</p>*
 \
-\
+
 <div style="text-align: center;">
     <img src="21-copy-2 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
 
 *<p align=center>Proposal for a graffiti-friendly monument. </p>*
 \
-\
+
 <div style="text-align: center;">
     <img src="Adobe-Scan-4-Jul-2021-2-1 1.jpg" style="max-width: 500px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
 
 *<p align=center> Exploded Axonometry of 'Casa Luis Barragan'. </p>*
 \
-\
+
 <div style="text-align: center;">
     <img src="BirdNest2a 2.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="Your Image Description">
 </div>
